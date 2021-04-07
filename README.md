@@ -1,2 +1,2 @@
-# Clusteriza-o-k-means-
-Aprendizagem não supervisionada
+# Clusterização (k-means)
+##Aprendizagem não supervisionada
